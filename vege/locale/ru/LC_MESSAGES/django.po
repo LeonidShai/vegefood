@@ -1,0 +1,668 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-10 08:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: templates/vege/about.html:10 templates/vege/base.html:68
+#: templates/vege/blog-single.html:10 templates/vege/blog.html:10
+#: templates/vege/cart.html:10 templates/vege/checkout.html:10
+#: templates/vege/contact.html:10 templates/vege/product-single.html:10
+#: templates/vege/shop.html:10 templates/vege/wishlist.html:10
+msgid "HomePage"
+msgstr "Домашняя"
+
+#: templates/vege/about.html:10 templates/vege/about.html:11
+#: templates/vege/base.html:79 templates/vege/base.html:138
+msgid "About"
+msgstr "О нас"
+
+#: templates/vege/about.html:50
+msgid "Happy Customers"
+msgstr "Счастливые клиенты"
+
+#: templates/vege/about.html:58
+msgid "Branches"
+msgstr "Филиалы"
+
+#: templates/vege/about.html:66
+msgid "Partner"
+msgstr "Партнёры"
+
+#: templates/vege/about.html:74
+msgid "Awards"
+msgstr "Награды"
+
+#: templates/vege/about.html:88 templates/vege/index.html:404
+msgid "Testimony"
+msgstr "Отзывы"
+
+#: templates/vege/about.html:89 templates/vege/index.html:405
+msgid "Our satisfied customer says"
+msgstr "Наши довольные клиенты рассказывают"
+
+#: templates/vege/about.html:90 templates/vege/about.html:104
+#: templates/vege/about.html:118 templates/vege/about.html:132
+#: templates/vege/about.html:146 templates/vege/about.html:160
+#: templates/vege/base.html:125 templates/vege/blog.html:33
+#: templates/vege/blog.html:49 templates/vege/blog.html:65
+#: templates/vege/blog.html:81 templates/vege/blog.html:97
+#: templates/vege/blog.html:113 templates/vege/cart.html:41
+#: templates/vege/cart.html:62 templates/vege/index.html:142
+#: templates/vege/index.html:386 templates/vege/index.html:406
+#: templates/vege/index.html:420 templates/vege/index.html:434
+#: templates/vege/index.html:448 templates/vege/index.html:462
+#: templates/vege/index.html:476 templates/vege/product-single.html:89
+#: templates/vege/wishlist.html:41 templates/vege/wishlist.html:62
+#: templates/vege/wishlist.html:83 templates/vege/wishlist.html:104
+#: templates/vege/wishlist.html:125 templates/vege/wishlist.html:146
+msgid "far far"
+msgstr "Далеко-далеко, за горами, из далёких стран Вокалия и Консонантия"
+
+#: templates/vege/about.html:105 templates/vege/about.html:119
+#: templates/vege/about.html:133 templates/vege/about.html:147
+#: templates/vege/about.html:161 templates/vege/index.html:421
+#: templates/vege/index.html:435 templates/vege/index.html:449
+#: templates/vege/index.html:463 templates/vege/index.html:477
+msgid "Garreth Smith"
+msgstr "Какой-то Гаррет"
+
+#: templates/vege/about.html:106 templates/vege/index.html:422
+msgid "Marketing Manager"
+msgstr "Продажный менеджер"
+
+#: templates/vege/about.html:120 templates/vege/index.html:436
+msgid "Interface Designer"
+msgstr "Дизайнер интерфейсов"
+
+#: templates/vege/about.html:134 templates/vege/index.html:450
+msgid "UI Designer"
+msgstr "Разработчик UI"
+
+#: templates/vege/about.html:148 templates/vege/index.html:464
+msgid "Web Developer"
+msgstr "Web Разработчик"
+
+#: templates/vege/about.html:162 templates/vege/index.html:478
+msgid "System Analyst"
+msgstr "Системный Аналитик"
+
+#: templates/vege/about.html:181 templates/vege/index.html:49
+msgid "Free Shipping"
+msgstr "Бесплатная доставка"
+
+#: templates/vege/about.html:182 templates/vege/index.html:50
+msgid "On order over $100"
+msgstr "При заказе от $100"
+
+#: templates/vege/about.html:192 templates/vege/index.html:60
+msgid "Always Fresh"
+msgstr "Всегда свежее"
+
+#: templates/vege/about.html:193 templates/vege/index.html:61
+msgid "Product well package"
+msgstr "Продукт хорошо упакован"
+
+#: templates/vege/about.html:203 templates/vege/index.html:71
+msgid "Superior Quality"
+msgstr "Превосходное качество"
+
+#: templates/vege/about.html:204 templates/vege/index.html:72
+msgid "Quality Products"
+msgstr "Качественные продукты"
+
+#: templates/vege/about.html:214 templates/vege/index.html:82
+msgid "Support"
+msgstr "Поддержка"
+
+#: templates/vege/about.html:215 templates/vege/index.html:83
+msgid "sp Support"
+msgstr "Поддержка 24/7"
+
+#: templates/vege/base.html:61 templates/vege/base.html:124
+msgid "Vegefoods"
+msgstr "Вегетарианская еда"
+
+#: templates/vege/base.html:63 templates/vege/base.html:135
+msgid "Menu"
+msgstr "Меню"
+
+#: templates/vege/base.html:70
+msgid "MainShop"
+msgstr "Магазин"
+
+#: templates/vege/base.html:72 templates/vege/base.html:137
+msgid "Shop"
+msgstr "Магазин"
+
+#: templates/vege/base.html:73 templates/vege/wishlist.html:10
+#: templates/vege/wishlist.html:11
+msgid "Wishlist"
+msgstr "Лист желаний"
+
+#: templates/vege/base.html:74
+msgid "Single Product"
+msgstr "Один продукт"
+
+#: templates/vege/base.html:75 templates/vege/cart.html:10
+#: templates/vege/cart.html:11
+msgid "Cart"
+msgstr "Корзина"
+
+#: templates/vege/base.html:76 templates/vege/checkout.html:10
+#: templates/vege/checkout.html:11
+msgid "Checkout"
+msgstr "Контроль"
+
+#: templates/vege/base.html:80 templates/vege/blog-single.html:10
+#: templates/vege/blog-single.html:11 templates/vege/blog.html:10
+#: templates/vege/blog.html:11
+msgid "Blog"
+msgstr "Блог"
+
+#: templates/vege/base.html:81 templates/vege/base.html:156
+msgid "Contact"
+msgstr "Контакты"
+
+#: templates/vege/base.html:98
+msgid "Subcribe to"
+msgstr "Подпишитесь на нашу расылку"
+
+#: templates/vege/base.html:99
+msgid "Get e-mail"
+msgstr "Получайте свежие новости по электронной почте"
+
+#: templates/vege/base.html:104
+msgid "Enter email address"
+msgstr "Введите адрес электронной почты"
+
+#: templates/vege/base.html:105
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: templates/vege/base.html:139
+msgid "Journal"
+msgstr "Журнал"
+
+#: templates/vege/base.html:140 templates/vege/contact.html:10
+#: templates/vege/contact.html:11
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: templates/vege/base.html:146
+msgid "Help"
+msgstr "Помощь"
+
+#: templates/vege/base.html:149
+msgid "Shipping Information"
+msgstr "Информация о доставке"
+
+#: templates/vege/base.html:150
+msgid "Returns &amp; Exchange"
+msgstr "Возврат &amp; Обмен"
+
+#: templates/vege/base.html:151
+msgid "Terms &amp; Conditions"
+msgstr "Условия &amp; Положения"
+
+#: templates/vege/base.html:152
+msgid "Privacy Policy"
+msgstr "Конфиденциальность"
+
+#: templates/vege/base.html:163
+msgid "Have a Questions?"
+msgstr "Вопросы?"
+
+#: templates/vege/blog-single.html:38
+msgid "Life"
+msgstr "Жизнь"
+
+#: templates/vege/blog-single.html:39
+msgid "Sport"
+msgstr "Спорт"
+
+#: templates/vege/blog-single.html:40
+msgid "Tech"
+msgstr "Технологии"
+
+#: templates/vege/blog-single.html:41
+msgid "Travel"
+msgstr "Путешествия"
+
+#: templates/vege/blog-single.html:67 templates/vege/blog-single.html:79
+#: templates/vege/blog-single.html:91 templates/vege/blog-single.html:104
+#: templates/vege/blog-single.html:116 templates/vege/blog-single.html:134
+msgid "Reply"
+msgstr "Ответить"
+
+#: templates/vege/blog-single.html:178 templates/vege/blog.html:130
+msgid "Categories"
+msgstr "Категории"
+
+#: templates/vege/blog-single.html:180 templates/vege/blog.html:132
+#: templates/vege/index.html:99 templates/vege/index.html:113
+#: templates/vege/shop.html:23
+msgid "Vegetables"
+msgstr "Овощи"
+
+#: templates/vege/blog-single.html:181 templates/vege/blog-single.html:227
+#: templates/vege/blog.html:133 templates/vege/blog.html:179
+#: templates/vege/index.html:108 templates/vege/shop.html:24
+msgid "Fruits"
+msgstr "Фрукты"
+
+#: templates/vege/blog-single.html:182 templates/vege/blog.html:134
+#: templates/vege/index.html:123 templates/vege/shop.html:25
+msgid "Juices"
+msgstr "Соки"
+
+#: templates/vege/blog-single.html:183 templates/vege/blog.html:135
+#: templates/vege/index.html:128 templates/vege/shop.html:26
+msgid "Dried"
+msgstr "Сухофрукты"
+
+#: templates/vege/blog-single.html:188 templates/vege/blog.html:140
+msgid "Recent Blog"
+msgstr "Недавний блог"
+
+#: templates/vege/blog-single.html:228 templates/vege/blog.html:180
+#: templates/vege/index.html:270
+msgid "Tomatoe"
+msgstr "Помидоры"
+
+#: templates/vege/blog-single.html:229 templates/vege/blog.html:181
+msgid "Mango"
+msgstr "Манго"
+
+#: templates/vege/blog-single.html:230 templates/vege/blog.html:182
+msgid "Apple"
+msgstr "Яблоки"
+
+#: templates/vege/blog-single.html:231 templates/vege/blog.html:183
+#: templates/vege/index.html:326
+msgid "Carrots"
+msgstr "Морковь"
+
+#: templates/vege/blog-single.html:232 templates/vege/blog.html:184
+msgid "Orange"
+msgstr "Апельсины"
+
+#: templates/vege/blog-single.html:233 templates/vege/blog.html:185
+msgid "Pepper"
+msgstr "Перец"
+
+#: templates/vege/blog-single.html:234 templates/vege/blog.html:186
+msgid "Eggplant"
+msgstr "Баклажаны"
+
+#: templates/vege/blog-single.html:239
+msgid "Paragraph"
+msgstr "Параграф"
+
+#: templates/vege/blog.html:34 templates/vege/blog.html:50
+#: templates/vege/blog.html:66 templates/vege/blog.html:82
+#: templates/vege/blog.html:98 templates/vege/blog.html:114
+msgid "Read more"
+msgstr "Узнать больше"
+
+#: templates/vege/blog.html:177
+msgid "Tag Cloud"
+msgstr "Облако тегов"
+
+#: templates/vege/cart.html:27
+msgid "Product name"
+msgstr "Название продукта"
+
+#: templates/vege/cart.html:28 templates/vege/wishlist.html:28
+msgid "Price"
+msgstr "Цена"
+
+#: templates/vege/cart.html:29 templates/vege/wishlist.html:29
+msgid "Quantity"
+msgstr "Количество"
+
+#: templates/vege/cart.html:30 templates/vege/cart.html:132
+#: templates/vege/checkout.html:122 templates/vege/wishlist.html:30
+msgid "Total"
+msgstr "Полная стоимость"
+
+#: templates/vege/cart.html:40 templates/vege/cart.html:61
+#: templates/vege/index.html:155 templates/vege/product-single.html:24
+#: templates/vege/product-single.html:102 templates/vege/wishlist.html:40
+#: templates/vege/wishlist.html:61 templates/vege/wishlist.html:82
+#: templates/vege/wishlist.html:103 templates/vege/wishlist.html:124
+#: templates/vege/wishlist.html:145
+msgid "Bell Pepper"
+msgstr "Болгарский перец"
+
+#: templates/vege/cart.html:83 templates/vege/cart.html:87
+msgid "Coupon Code"
+msgstr "Купон на скидку"
+
+#: templates/vege/cart.html:84
+msgid "Enter your coupon code if you have one"
+msgstr "Введите код скидочного купона, если есть"
+
+#: templates/vege/cart.html:92
+msgid "Apply Coupon"
+msgstr "Применить скидку"
+
+#: templates/vege/cart.html:96
+msgid "Estimate shipping and tax"
+msgstr "Оценка доставки и налога"
+
+#: templates/vege/cart.html:97
+msgid "Enter your destination to get a shipping estimatee"
+msgstr "Введите адрес доставки для оценки"
+
+#: templates/vege/cart.html:100
+msgid "Country"
+msgstr "Страна"
+
+#: templates/vege/cart.html:104
+msgid "State/Province"
+msgstr "Штат/Провинция"
+
+#: templates/vege/cart.html:108 templates/vege/checkout.html:74
+msgid "Zip/Postal Code"
+msgstr "Почтовый индекс"
+
+#: templates/vege/cart.html:113
+msgid "Estimate"
+msgstr "Оценка"
+
+#: templates/vege/cart.html:117 templates/vege/checkout.html:107
+msgid "Cart Totals"
+msgstr "Полная стоимость корзины"
+
+#: templates/vege/cart.html:119 templates/vege/checkout.html:109
+msgid "Subtotal"
+msgstr "Подитог"
+
+#: templates/vege/cart.html:123 templates/vege/checkout.html:113
+msgid "Delivery"
+msgstr "Доставка"
+
+#: templates/vege/cart.html:127 templates/vege/checkout.html:117
+msgid "Discount"
+msgstr "Скидка"
+
+#: templates/vege/cart.html:136
+msgid "Proceed to Checkout"
+msgstr "Оформить заказ"
+
+#: templates/vege/checkout.html:22
+msgid "Billing Details"
+msgstr "Реквизиты"
+
+#: templates/vege/checkout.html:26
+msgid "Firt Name"
+msgstr "имя"
+
+#: templates/vege/checkout.html:32
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: templates/vege/checkout.html:39
+msgid "State/Country"
+msgstr "Штат/Страна"
+
+#: templates/vege/checkout.html:43
+msgid "France"
+msgstr "Франция"
+
+#: templates/vege/checkout.html:44
+msgid "Italy"
+msgstr "Италия"
+
+#: templates/vege/checkout.html:45
+msgid "Philippines"
+msgstr "Филлипины"
+
+#: templates/vege/checkout.html:46
+msgid "South Korea"
+msgstr "Южная Корея"
+
+#: templates/vege/checkout.html:47
+msgid "Hongkong"
+msgstr "Гонконг"
+
+#: templates/vege/checkout.html:48
+msgid "Japan"
+msgstr "Япония"
+
+#: templates/vege/checkout.html:56
+msgid "Street Address"
+msgstr "Улица"
+
+#: templates/vege/checkout.html:68
+msgid "Town/City"
+msgstr "Город"
+
+#: templates/vege/checkout.html:81
+msgid "Phone"
+msgstr "Телефон"
+
+#: templates/vege/checkout.html:87
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+#: templates/vege/checkout.html:95
+msgid "Create an Account?"
+msgstr "Создать аккаунт?"
+
+#: templates/vege/checkout.html:96
+msgid "Ship to different address"
+msgstr "Выслать на другой адрес"
+
+#: templates/vege/checkout.html:129
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: templates/vege/checkout.html:133
+msgid "Direct Bank Tranfer"
+msgstr "Банк"
+
+#: templates/vege/checkout.html:140
+msgid "Check Payment"
+msgstr "Проверка оплаты"
+
+#: templates/vege/checkout.html:147
+msgid "Paypal"
+msgstr "Paypal"
+
+#: templates/vege/checkout.html:154
+msgid "I have read and accept the terms and conditions"
+msgstr "Я прочитал и согласен с правилами и условиями"
+
+#: templates/vege/checkout.html:158
+msgid "Place an order"
+msgstr "Оформить заказ"
+
+#: templates/vege/contact.html:23
+#, fuzzy
+#| msgid "Email Address"
+msgid "Address:"
+msgstr "Адрес:"
+
+#: templates/vege/contact.html:28
+msgid "TelePhone:"
+msgstr "Телефон:"
+
+#: templates/vege/contact.html:33
+msgid "Email:"
+msgstr "Е-мейл:"
+
+#: templates/vege/contact.html:38
+msgid "Website:"
+msgstr "Сайт:"
+
+#: templates/vege/contact.html:46
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: templates/vege/contact.html:49
+msgid "Your Email"
+msgstr "Адрес Вашей почты"
+
+#: templates/vege/contact.html:52
+msgid "Subject"
+msgstr "Тема"
+
+#: templates/vege/contact.html:55
+msgid "Message"
+msgstr "Сообщение"
+
+#: templates/vege/contact.html:58
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: templates/vege/index.html:14
+msgid "We serve Fresh Vegestables &amp; Fruits"
+msgstr "У нас всегда свежие Овощи &amp; Фрукты"
+
+#: templates/vege/index.html:15 templates/vege/index.html:30
+msgid "We deliver organic vegetables &amp; fruits"
+msgstr "Мы поставляем только натуральные овощи &amp; фрукты"
+
+#: templates/vege/index.html:16 templates/vege/index.html:31
+msgid "Osn View Details"
+msgstr "Посмотреть детали"
+
+#: templates/vege/index.html:29
+msgid "Fresh &amp; Organic Foods"
+msgstr "100% Свежие &amp; Натуральные Продукты"
+
+#: templates/vege/index.html:100
+msgid "Protect the health of every home"
+msgstr "Защита здоровья в каждом доме"
+
+#: templates/vege/index.html:101
+msgid "Shop now"
+msgstr "Купить сейчас"
+
+#: templates/vege/index.html:140
+msgid "Featured Products"
+msgstr "Рекомендуемые продукты"
+
+#: templates/vege/index.html:141
+msgid "Our Products"
+msgstr "Наши продукты"
+
+#: templates/vege/index.html:183 templates/vege/product-single.html:130
+msgid "Strawberry"
+msgstr "Клубника"
+
+#: templates/vege/index.html:211 templates/vege/product-single.html:158
+msgid "Green Beans"
+msgstr "Зелёный горошек"
+
+#: templates/vege/index.html:239 templates/vege/product-single.html:186
+msgid "Purple Cabbage"
+msgstr "Красная капуста"
+
+#: templates/vege/index.html:298
+msgid "Brocolli"
+msgstr "Брокколи"
+
+#: templates/vege/index.html:354
+msgid "Fruit Juice"
+msgstr "Фруктовый сок"
+
+#: templates/vege/index.html:384
+msgid "Best Price For You"
+msgstr "Специальное предложение"
+
+#: templates/vege/index.html:385
+msgid "Deal of the day"
+msgstr "Предложение дня"
+
+#: templates/vege/index.html:387
+msgid "Spinach"
+msgstr "Шпинат"
+
+#: templates/vege/index.html:388
+msgid "now $5 only"
+msgstr "теперь $5"
+
+#: templates/vege/index.html:391
+msgid "hours"
+msgstr "часов"
+
+#: templates/vege/product-single.html:10 templates/vege/product-single.html:87
+#: templates/vege/shop.html:10 templates/vege/shop.html:11
+msgid "Products"
+msgstr "Продукты"
+
+#: templates/vege/product-single.html:10 templates/vege/product-single.html:11
+msgid "Product Single"
+msgstr "Отдельные продукты"
+
+#: templates/vege/product-single.html:35
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: templates/vege/product-single.html:38
+msgid "Sold"
+msgstr "Продано"
+
+#: templates/vege/product-single.html:50
+msgid "Small"
+msgstr "Маленький"
+
+#: templates/vege/product-single.html:51
+msgid "Medium"
+msgstr "Средний"
+
+#: templates/vege/product-single.html:52
+msgid "Large"
+msgstr "Большой"
+
+#: templates/vege/product-single.html:53
+msgid "ExtraLarge"
+msgstr "Экстра крупный"
+
+#: templates/vege/product-single.html:74
+msgid "600 kg available"
+msgstr "доступно 600 кг"
+
+#: templates/vege/product-single.html:77
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: templates/vege/product-single.html:88
+msgid "Related Products"
+msgstr "Похожие товары"
+
+#: templates/vege/shop.html:22
+msgid "All"
+msgstr "Всё"
+
+#: templates/vege/wishlist.html:26
+msgid "Product List"
+msgstr "Список продуктов"
+
+#~ msgid "Onion"
+#~ msgstr "Лук"
+
+#~ msgid "Garlic"
+#~ msgstr "Чеснок"
+
+#~ msgid "Chilli"
+#~ msgstr "Перец чили"

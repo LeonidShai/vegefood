@@ -1,0 +1,666 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-10 08:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/vege/about.html:10 templates/vege/base.html:68
+#: templates/vege/blog-single.html:10 templates/vege/blog.html:10
+#: templates/vege/cart.html:10 templates/vege/checkout.html:10
+#: templates/vege/contact.html:10 templates/vege/product-single.html:10
+#: templates/vege/shop.html:10 templates/vege/wishlist.html:10
+msgid "HomePage"
+msgstr "Home"
+
+#: templates/vege/about.html:10 templates/vege/about.html:11
+#: templates/vege/base.html:79 templates/vege/base.html:138
+msgid "About"
+msgstr "About us"
+
+#: templates/vege/about.html:50
+msgid "Happy Customers"
+msgstr "Happy Customers"
+
+#: templates/vege/about.html:58
+msgid "Branches"
+msgstr "Branches"
+
+#: templates/vege/about.html:66
+msgid "Partner"
+msgstr "Partner"
+
+#: templates/vege/about.html:74
+msgid "Awards"
+msgstr "Awards"
+
+#: templates/vege/about.html:88 templates/vege/index.html:404
+msgid "Testimony"
+msgstr "Testimony"
+
+#: templates/vege/about.html:89 templates/vege/index.html:405
+msgid "Our satisfied customer says"
+msgstr "Our satisfied customer says"
+
+#: templates/vege/about.html:90 templates/vege/about.html:104
+#: templates/vege/about.html:118 templates/vege/about.html:132
+#: templates/vege/about.html:146 templates/vege/about.html:160
+#: templates/vege/base.html:125 templates/vege/blog.html:33
+#: templates/vege/blog.html:49 templates/vege/blog.html:65
+#: templates/vege/blog.html:81 templates/vege/blog.html:97
+#: templates/vege/blog.html:113 templates/vege/cart.html:41
+#: templates/vege/cart.html:62 templates/vege/index.html:142
+#: templates/vege/index.html:386 templates/vege/index.html:406
+#: templates/vege/index.html:420 templates/vege/index.html:434
+#: templates/vege/index.html:448 templates/vege/index.html:462
+#: templates/vege/index.html:476 templates/vege/product-single.html:89
+#: templates/vege/wishlist.html:41 templates/vege/wishlist.html:62
+#: templates/vege/wishlist.html:83 templates/vege/wishlist.html:104
+#: templates/vege/wishlist.html:125 templates/vege/wishlist.html:146
+msgid "far far"
+msgstr ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia"
+
+#: templates/vege/about.html:105 templates/vege/about.html:119
+#: templates/vege/about.html:133 templates/vege/about.html:147
+#: templates/vege/about.html:161 templates/vege/index.html:421
+#: templates/vege/index.html:435 templates/vege/index.html:449
+#: templates/vege/index.html:463 templates/vege/index.html:477
+msgid "Garreth Smith"
+msgstr "Garreth Smith"
+
+#: templates/vege/about.html:106 templates/vege/index.html:422
+msgid "Marketing Manager"
+msgstr "Marketing Manager"
+
+#: templates/vege/about.html:120 templates/vege/index.html:436
+msgid "Interface Designer"
+msgstr "Interface Designer"
+
+#: templates/vege/about.html:134 templates/vege/index.html:450
+msgid "UI Designer"
+msgstr "UI Designer"
+
+#: templates/vege/about.html:148 templates/vege/index.html:464
+msgid "Web Developer"
+msgstr "Web Developer"
+
+#: templates/vege/about.html:162 templates/vege/index.html:478
+msgid "System Analyst"
+msgstr "System Analyst"
+
+#: templates/vege/about.html:181 templates/vege/index.html:49
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+#: templates/vege/about.html:182 templates/vege/index.html:50
+msgid "On order over $100"
+msgstr "On order over $100"
+
+#: templates/vege/about.html:192 templates/vege/index.html:60
+msgid "Always Fresh"
+msgstr "Always Fresh"
+
+#: templates/vege/about.html:193 templates/vege/index.html:61
+msgid "Product well package"
+msgstr "Product well package"
+
+#: templates/vege/about.html:203 templates/vege/index.html:71
+msgid "Superior Quality"
+msgstr "Superior Quality"
+
+#: templates/vege/about.html:204 templates/vege/index.html:72
+msgid "Quality Products"
+msgstr "Quality Products"
+
+#: templates/vege/about.html:214 templates/vege/index.html:82
+msgid "Support"
+msgstr "Support"
+
+#: templates/vege/about.html:215 templates/vege/index.html:83
+msgid "sp Support"
+msgstr "24/7 Support"
+
+#: templates/vege/base.html:61 templates/vege/base.html:124
+msgid "Vegefoods"
+msgstr "Vegefoods"
+
+#: templates/vege/base.html:63 templates/vege/base.html:135
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/vege/base.html:70
+msgid "MainShop"
+msgstr "Shop"
+
+#: templates/vege/base.html:72 templates/vege/base.html:137
+msgid "Shop"
+msgstr "Shop"
+
+#: templates/vege/base.html:73 templates/vege/wishlist.html:10
+#: templates/vege/wishlist.html:11
+msgid "Wishlist"
+msgstr "Wishlist"
+
+#: templates/vege/base.html:74
+msgid "Single Product"
+msgstr "Single Produc"
+
+#: templates/vege/base.html:75 templates/vege/cart.html:10
+#: templates/vege/cart.html:11
+msgid "Cart"
+msgstr "Cart"
+
+#: templates/vege/base.html:76 templates/vege/checkout.html:10
+#: templates/vege/checkout.html:11
+msgid "Checkout"
+msgstr "Checkout"
+
+#: templates/vege/base.html:80 templates/vege/blog-single.html:10
+#: templates/vege/blog-single.html:11 templates/vege/blog.html:10
+#: templates/vege/blog.html:11
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/vege/base.html:81 templates/vege/base.html:156
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/vege/base.html:98
+msgid "Subcribe to"
+msgstr "Subcribe to our Newsletter"
+
+#: templates/vege/base.html:99
+msgid "Get e-mail"
+msgstr "Get e-mail updates about our latest shops and special offers"
+
+#: templates/vege/base.html:104
+msgid "Enter email address"
+msgstr "Enter email address"
+
+#: templates/vege/base.html:105
+msgid "Subscribe"
+msgstr "Subcribe"
+
+#: templates/vege/base.html:139
+msgid "Journal"
+msgstr "Journal"
+
+#: templates/vege/base.html:140 templates/vege/contact.html:10
+#: templates/vege/contact.html:11
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: templates/vege/base.html:146
+msgid "Help"
+msgstr "Help"
+
+#: templates/vege/base.html:149
+msgid "Shipping Information"
+msgstr "Shipping Information"
+
+#: templates/vege/base.html:150
+msgid "Returns &amp; Exchange"
+msgstr "Returns &amp; Exchange"
+
+#: templates/vege/base.html:151
+msgid "Terms &amp; Conditions"
+msgstr "Terms &amp; Conditions"
+
+#: templates/vege/base.html:152
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: templates/vege/base.html:163
+msgid "Have a Questions?"
+msgstr "Have a Questions?"
+
+#: templates/vege/blog-single.html:38
+msgid "Life"
+msgstr "Life"
+
+#: templates/vege/blog-single.html:39
+msgid "Sport"
+msgstr "Sport"
+
+#: templates/vege/blog-single.html:40
+msgid "Tech"
+msgstr "Tech"
+
+#: templates/vege/blog-single.html:41
+msgid "Travel"
+msgstr "Travel"
+
+#: templates/vege/blog-single.html:67 templates/vege/blog-single.html:79
+#: templates/vege/blog-single.html:91 templates/vege/blog-single.html:104
+#: templates/vege/blog-single.html:116 templates/vege/blog-single.html:134
+msgid "Reply"
+msgstr "Reply"
+
+#: templates/vege/blog-single.html:178 templates/vege/blog.html:130
+msgid "Categories"
+msgstr "Categories"
+
+#: templates/vege/blog-single.html:180 templates/vege/blog.html:132
+#: templates/vege/index.html:99 templates/vege/index.html:113
+#: templates/vege/shop.html:23
+msgid "Vegetables"
+msgstr "Vegetables"
+
+#: templates/vege/blog-single.html:181 templates/vege/blog-single.html:227
+#: templates/vege/blog.html:133 templates/vege/blog.html:179
+#: templates/vege/index.html:108 templates/vege/shop.html:24
+msgid "Fruits"
+msgstr "Fruits"
+
+#: templates/vege/blog-single.html:182 templates/vege/blog.html:134
+#: templates/vege/index.html:123 templates/vege/shop.html:25
+msgid "Juices"
+msgstr "Juices"
+
+#: templates/vege/blog-single.html:183 templates/vege/blog.html:135
+#: templates/vege/index.html:128 templates/vege/shop.html:26
+msgid "Dried"
+msgstr "Dried"
+
+#: templates/vege/blog-single.html:188 templates/vege/blog.html:140
+msgid "Recent Blog"
+msgstr "Recent Blog"
+
+#: templates/vege/blog-single.html:228 templates/vege/blog.html:180
+#: templates/vege/index.html:270
+msgid "Tomatoe"
+msgstr "Tomatoe"
+
+#: templates/vege/blog-single.html:229 templates/vege/blog.html:181
+msgid "Mango"
+msgstr "Mango"
+
+#: templates/vege/blog-single.html:230 templates/vege/blog.html:182
+msgid "Apple"
+msgstr "Apple"
+
+#: templates/vege/blog-single.html:231 templates/vege/blog.html:183
+#: templates/vege/index.html:326
+msgid "Carrots"
+msgstr "Carrots"
+
+#: templates/vege/blog-single.html:232 templates/vege/blog.html:184
+msgid "Orange"
+msgstr "Orange"
+
+#: templates/vege/blog-single.html:233 templates/vege/blog.html:185
+msgid "Pepper"
+msgstr "Pepper"
+
+#: templates/vege/blog-single.html:234 templates/vege/blog.html:186
+msgid "Eggplant"
+msgstr "Eggplant"
+
+#: templates/vege/blog-single.html:239
+msgid "Paragraph"
+msgstr "Paragraph"
+
+#: templates/vege/blog.html:34 templates/vege/blog.html:50
+#: templates/vege/blog.html:66 templates/vege/blog.html:82
+#: templates/vege/blog.html:98 templates/vege/blog.html:114
+msgid "Read more"
+msgstr "Read more"
+
+#: templates/vege/blog.html:177
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: templates/vege/cart.html:27
+msgid "Product name"
+msgstr "Product name"
+
+#: templates/vege/cart.html:28 templates/vege/wishlist.html:28
+msgid "Price"
+msgstr "Price"
+
+#: templates/vege/cart.html:29 templates/vege/wishlist.html:29
+msgid "Quantity"
+msgstr "Quantity"
+
+#: templates/vege/cart.html:30 templates/vege/cart.html:132
+#: templates/vege/checkout.html:122 templates/vege/wishlist.html:30
+msgid "Total"
+msgstr "Total"
+
+#: templates/vege/cart.html:40 templates/vege/cart.html:61
+#: templates/vege/index.html:155 templates/vege/product-single.html:24
+#: templates/vege/product-single.html:102 templates/vege/wishlist.html:40
+#: templates/vege/wishlist.html:61 templates/vege/wishlist.html:82
+#: templates/vege/wishlist.html:103 templates/vege/wishlist.html:124
+#: templates/vege/wishlist.html:145
+msgid "Bell Pepper"
+msgstr "Bell Pepper"
+
+#: templates/vege/cart.html:83 templates/vege/cart.html:87
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+#: templates/vege/cart.html:84
+msgid "Enter your coupon code if you have one"
+msgstr "Enter your coupon code if you have one"
+
+#: templates/vege/cart.html:92
+msgid "Apply Coupon"
+msgstr "Apply Coupon"
+
+#: templates/vege/cart.html:96
+msgid "Estimate shipping and tax"
+msgstr "Estimate shipping and tax"
+
+#: templates/vege/cart.html:97
+msgid "Enter your destination to get a shipping estimatee"
+msgstr "Enter your destination to get a shipping estimatee"
+
+#: templates/vege/cart.html:100
+msgid "Country"
+msgstr "Country"
+
+#: templates/vege/cart.html:104
+msgid "State/Province"
+msgstr "State/Province"
+
+#: templates/vege/cart.html:108 templates/vege/checkout.html:74
+msgid "Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+#: templates/vege/cart.html:113
+msgid "Estimate"
+msgstr "Estimate"
+
+#: templates/vege/cart.html:117 templates/vege/checkout.html:107
+msgid "Cart Totals"
+msgstr "Cart Totals"
+
+#: templates/vege/cart.html:119 templates/vege/checkout.html:109
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: templates/vege/cart.html:123 templates/vege/checkout.html:113
+msgid "Delivery"
+msgstr "Delivery"
+
+#: templates/vege/cart.html:127 templates/vege/checkout.html:117
+msgid "Discount"
+msgstr "Discount"
+
+#: templates/vege/cart.html:136
+msgid "Proceed to Checkout"
+msgstr "Proceed to Checkout"
+
+#: templates/vege/checkout.html:22
+msgid "Billing Details"
+msgstr "Billing Details"
+
+#: templates/vege/checkout.html:26
+msgid "Firt Name"
+msgstr "Firt Nam"
+
+#: templates/vege/checkout.html:32
+msgid "Last Name"
+msgstr "Last Name"
+
+#: templates/vege/checkout.html:39
+msgid "State/Country"
+msgstr "State/Country"
+
+#: templates/vege/checkout.html:43
+msgid "France"
+msgstr "France"
+
+#: templates/vege/checkout.html:44
+msgid "Italy"
+msgstr "Italy"
+
+#: templates/vege/checkout.html:45
+msgid "Philippines"
+msgstr "Philippines"
+
+#: templates/vege/checkout.html:46
+msgid "South Korea"
+msgstr "South Korea"
+
+#: templates/vege/checkout.html:47
+msgid "Hongkong"
+msgstr "Hongkong"
+
+#: templates/vege/checkout.html:48
+msgid "Japan"
+msgstr "Japan"
+
+#: templates/vege/checkout.html:56
+msgid "Street Address"
+msgstr "Street Address"
+
+#: templates/vege/checkout.html:68
+msgid "Town/City"
+msgstr "Town/City"
+
+#: templates/vege/checkout.html:81
+msgid "Phone"
+msgstr "Phone"
+
+#: templates/vege/checkout.html:87
+msgid "Email Address"
+msgstr "Email Address"
+
+#: templates/vege/checkout.html:95
+msgid "Create an Account?"
+msgstr "Create an Account?"
+
+#: templates/vege/checkout.html:96
+msgid "Ship to different address"
+msgstr "hip to different address"
+
+#: templates/vege/checkout.html:129
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: templates/vege/checkout.html:133
+msgid "Direct Bank Tranfer"
+msgstr "Direct Bank Tranfer"
+
+#: templates/vege/checkout.html:140
+msgid "Check Payment"
+msgstr "Check Payment"
+
+#: templates/vege/checkout.html:147
+msgid "Paypal"
+msgstr "Paypal"
+
+#: templates/vege/checkout.html:154
+msgid "I have read and accept the terms and conditions"
+msgstr "I have read and accept the terms and conditions"
+
+#: templates/vege/checkout.html:158
+msgid "Place an order"
+msgstr "Place an order"
+
+#: templates/vege/contact.html:23
+msgid "Address:"
+msgstr "Address"
+
+#: templates/vege/contact.html:28
+msgid "TelePhone:"
+msgstr "Phone:"
+
+#: templates/vege/contact.html:33
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/vege/contact.html:38
+msgid "Website:"
+msgstr "Website:"
+
+#: templates/vege/contact.html:46
+msgid "Your Name"
+msgstr "Your Name"
+
+#: templates/vege/contact.html:49
+msgid "Your Email"
+msgstr "Your Email:"
+
+#: templates/vege/contact.html:52
+msgid "Subject"
+msgstr "Subject"
+
+#: templates/vege/contact.html:55
+msgid "Message"
+msgstr "Message"
+
+#: templates/vege/contact.html:58
+msgid "Send Message"
+msgstr "Send Message"
+
+#: templates/vege/index.html:14
+msgid "We serve Fresh Vegestables &amp; Fruits"
+msgstr "We serve Fresh Vegestables &amp; Fruits"
+
+#: templates/vege/index.html:15 templates/vege/index.html:30
+msgid "We deliver organic vegetables &amp; fruits"
+msgstr "We deliver organic vegetables &amp; fruits"
+
+#: templates/vege/index.html:16 templates/vege/index.html:31
+msgid "Osn View Details"
+msgstr "View Details"
+
+#: templates/vege/index.html:29
+msgid "Fresh &amp; Organic Foods"
+msgstr "100% Fresh &amp; Organic Foods"
+
+#: templates/vege/index.html:100
+msgid "Protect the health of every home"
+msgstr "Protect the health of every home"
+
+#: templates/vege/index.html:101
+msgid "Shop now"
+msgstr "Shop now"
+
+#: templates/vege/index.html:140
+msgid "Featured Products"
+msgstr "Featured Products"
+
+#: templates/vege/index.html:141
+msgid "Our Products"
+msgstr "Our Products"
+
+#: templates/vege/index.html:183 templates/vege/product-single.html:130
+msgid "Strawberry"
+msgstr "Strawberry"
+
+#: templates/vege/index.html:211 templates/vege/product-single.html:158
+msgid "Green Beans"
+msgstr "Green Beans"
+
+#: templates/vege/index.html:239 templates/vege/product-single.html:186
+msgid "Purple Cabbage"
+msgstr "Purple Cabbage"
+
+#: templates/vege/index.html:298
+msgid "Brocolli"
+msgstr "Brocolli"
+
+#: templates/vege/index.html:354
+msgid "Fruit Juice"
+msgstr "Fruit Juice"
+
+#: templates/vege/index.html:384
+msgid "Best Price For You"
+msgstr "Best Price For You"
+
+#: templates/vege/index.html:385
+msgid "Deal of the day"
+msgstr "Deal of the day"
+
+#: templates/vege/index.html:387
+msgid "Spinach"
+msgstr "Spinach"
+
+#: templates/vege/index.html:388
+msgid "now $5 only"
+msgstr "now $5 only"
+
+#: templates/vege/index.html:391
+msgid "hours"
+msgstr "hours"
+
+#: templates/vege/product-single.html:10 templates/vege/product-single.html:87
+#: templates/vege/shop.html:10 templates/vege/shop.html:11
+msgid "Products"
+msgstr "Products"
+
+#: templates/vege/product-single.html:10 templates/vege/product-single.html:11
+msgid "Product Single"
+msgstr "Product Single"
+
+#: templates/vege/product-single.html:35
+msgid "Rating"
+msgstr "Rating"
+
+#: templates/vege/product-single.html:38
+msgid "Sold"
+msgstr "Sold"
+
+#: templates/vege/product-single.html:50
+msgid "Small"
+msgstr "Small"
+
+#: templates/vege/product-single.html:51
+msgid "Medium"
+msgstr "Medium"
+
+#: templates/vege/product-single.html:52
+msgid "Large"
+msgstr "Large"
+
+#: templates/vege/product-single.html:53
+msgid "ExtraLarge"
+msgstr "ExtraLarge"
+
+#: templates/vege/product-single.html:74
+msgid "600 kg available"
+msgstr "600 kg available"
+
+#: templates/vege/product-single.html:77
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: templates/vege/product-single.html:88
+msgid "Related Products"
+msgstr "Related Products"
+
+#: templates/vege/shop.html:22
+msgid "All"
+msgstr "All"
+
+#: templates/vege/wishlist.html:26
+msgid "Product List"
+msgstr "Product List"
+
+#~ msgid "Onion"
+#~ msgstr "Onion"
+
+#~ msgid "Garlic"
+#~ msgstr "Garlic"
+
+#~ msgid "Chilli"
+#~ msgstr "Chilli"
